@@ -22,6 +22,8 @@ https://legoedu.jp/_pdf/news_20190830.pdf
 ## Contacts
 If you can know about detail me, you can see my website.
 
+- My home page (Github Pages): https://chihina.github.io/portfolio_english.html  
+
 - Qitta page: https://qiita.com/chi-na  
 
-- My home page (Github Pages): https://chihina.github.io/portfolio_english.html  
+- Linked in: www.linkedin.com/in/chihiro-nakatani-2060b01a9  
