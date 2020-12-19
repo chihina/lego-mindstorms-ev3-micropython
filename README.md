@@ -13,6 +13,10 @@ We archied a high performance sorting. It takes 44 seconds.
 
 ![sorting gif](https://github.com/chihina/lego-mindstorms-ev3-micropython/blob/master/images/sorting_movie.gif)
 
+# 3. Reference 
+If you want to write the same code as me, you can see this documents.  
+There are a lot of infomation which help you know about micropython and MINDSTORMS.  
+
 ## Contacts
 If you can know about detail me, you can see my website.
 
