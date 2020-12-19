@@ -1,4 +1,12 @@
 #!/usr/bin/env pybricks-micropython
+
+'''
+    Author: Chihiro Nakatani
+    E-mail: sd18064@toyota-ti.ac.jp
+    December 19th, 2020
+    This script is used for "Creativity Development Seminar"
+'''
+
 from pybricks.hubs import EV3Brick
 from pybricks.ev3devices import (Motor, TouchSensor, ColorSensor,
                                  InfraredSensor, UltrasonicSensor, GyroSensor)
@@ -7,7 +15,6 @@ from pybricks.tools import wait, StopWatch, DataLog
 from pybricks.robotics import DriveBase
 from pybricks.media.ev3dev import SoundFile, ImageFile
 
-# For interval time
 import time 
 from time import strftime
 from time import gmtime
