@@ -22,7 +22,7 @@ Accuracies of this sensor and motor are limited, so we need to some ingenuities.
 3. We built the system which is less susceptible limited of accuracies about color sensor and motor.  
 
 # 3. Result movie
-We archied a high performance sorting. It takes 44 seconds !!  
+We archied a high performance sorting. **It takes 44 seconds !!**  
 
 ![sorting gif](https://github.com/chihina/lego-mindstorms-ev3-micropython/blob/master/images/sorting_movie.gif)
 
