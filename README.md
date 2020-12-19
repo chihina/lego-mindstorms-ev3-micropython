@@ -9,7 +9,7 @@ We want to sort 9 marbles into the square box separated 9 blocks.
 ![marbles](https://github.com/chihina/lego-mindstorms-ev3-micropython/blob/master/images/marbles.jpg)
 
 # 2. Result movie
-We archied a high performance sorting. It takes 44 seconds.   
+We archied a high performance sorting. It takes 44 seconds !!  
 
 ![sorting gif](https://github.com/chihina/lego-mindstorms-ev3-micropython/blob/master/images/sorting_movie.gif)
 
