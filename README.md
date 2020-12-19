@@ -24,4 +24,4 @@ If you can know about detail me, you can see my website.
 
 - Qitta page: https://qiita.com/chi-na  
 
-- My homepage: https://chihina.github.io/portfolio_english.html  
+- My home page (Github Pages): https://chihina.github.io/portfolio_english.html  
