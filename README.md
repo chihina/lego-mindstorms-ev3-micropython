@@ -8,12 +8,25 @@ We want to sort 9 marbles into the square box separated 9 blocks.
 
 ![marbles](https://github.com/chihina/lego-mindstorms-ev3-micropython/blob/master/images/marbles.jpg)
 
-# 2. Result movie
+# 2. About program
+We used micropython, not block programming of MINDSTORMS.  
+By using it, we archied the fine control of a intelligent block.  
+We chose the color sensor and interactive servo motor. 
+
+- Color sensor: https://www.lego.com/ja-jp/product/ev3-color-sensor-45506  
+- Servo motor: https://www.lego.com/ja-jp/product/ev3-medium-servo-motor-45503  
+
+Accuracies of this sensor and motor are limited, so we need to some ingenuities.  
+1. We fixed the light condtion as possible as we can.  
+2. We tuned the color and motor parameters which fit enviroment.  
+3. We built the system which is less susceptible limited of accuracies about color sensor and motor.  
+
+# 3. Result movie
 We archied a high performance sorting. It takes 44 seconds !!  
 
 ![sorting gif](https://github.com/chihina/lego-mindstorms-ev3-micropython/blob/master/images/sorting_movie.gif)
 
-# 3. Reference 
+# 2. Reference 
 If you want to write the same code as me, you can see this documents.  
 There are a lot of infomation which help you know about micropython and MINDSTORMS.  
 
