@@ -13,8 +13,8 @@ We used micropython, not block programming of MINDSTORMS.
 By using it, we archied the fine control of a intelligent block.  
 We chose the color sensor and interactive servo motor. 
 
-- Color sensor: [https://www.lego.com/ja-jp/product/ev3-color-sensor-45506] https://www.lego.com/ja-jp/product/ev3-color-sensor-45506  
-- Servo motor: [https://www.lego.com/ja-jp/product/ev3-medium-servo-motor-45503] https://www.lego.com/ja-jp/product/ev3-medium-servo-motor-45503  
+- Color sensor: [https://www.lego.com/ja-jp/product/ev3-color-sensor-45506] (https://www.lego.com/ja-jp/product/ev3-color-sensor-45506)   
+- Servo motor: [https://www.lego.com/ja-jp/product/ev3-medium-servo-motor-45503] (https://www.lego.com/ja-jp/product/ev3-medium-servo-motor-45503)    
 
 Accuracies of this sensor and motor are limited, so we need to some ingenuities.  
 1. We fixed the light condtion as possible as we can.  
