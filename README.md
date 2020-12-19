@@ -2,6 +2,7 @@
 This repository include a micropython script for "LEGO MINDSTORMS EV3"
 
 # 1. Overview
+The project team consists of six people. I was mainly in charge of the program management. 
 We want to sort 9 marbles into the square box separated 9 blocks.  
 (We used red and blue and green marbles. We have three mables each color.)
 
@@ -16,7 +17,5 @@ We archied a high performance sorting. It takes 44 seconds.
 If you can know about detail me, you can see my website.
 
 - Qitta page: https://qiita.com/chi-na  
-
-- Github page: https://github.com/chihina
 
 - My homepage: https://chihina.github.io/portfolio_english.html  
